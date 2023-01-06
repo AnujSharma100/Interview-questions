@@ -1,0 +1,21 @@
+Interview questions
+1.How do you pass Arguments to a function in Python?
+2.How do you declare and use Global variables in Python?
+3.How do you convert btw the data types in python?
+4.What is a scope and How does it works in Python?
+5.What is the difference btw a local and Global variables in Python?
+6.What are the rules for Operator precedence in Python?
+7.How do you use ternary Operator in Python?
+8.Write about the File Handling Meathod in Python?
+9.What is a Return type and how do you specify it for a function in Python?
+10.What is Recursion and how do you use it in Python?
+11.Specify the rules for naming a function in Python?
+12.What is the difference btw an integer and a float datatype in Python?
+13.What is function Overlaoding and how does it implemented in Python?
+14.How do you use conditional Statements in Python?
+15.How do you use looping Statements?
+16.How do you declare a variable in Python and what are rules for naming a variable?
+17.what is OOPS concept in Python?
+18.What is a function and how do you define and call a function in Python?
+19.What are the Assignment Operators in Python?
+20.What is a function and how do you define and call it in Python?
